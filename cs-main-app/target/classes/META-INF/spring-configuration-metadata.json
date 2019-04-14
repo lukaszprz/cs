@@ -1,0 +1,16 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "cs.duration.limit",
+      "type": "java.lang.String",
+      "description": "A description for 'cs.duration.limit'"
+    },
+    {
+      "name": "cs.period",
+      "type": "java.lang.String",
+      "description": "A description for 'cs.period'"
+    }
+  ],
+  "hints": []
+}
